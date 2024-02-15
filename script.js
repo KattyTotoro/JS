@@ -1,1 +1,1 @@
-consle.console.log('Hello from file');
+console.log('Hello from file')
